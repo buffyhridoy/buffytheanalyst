@@ -355,7 +355,7 @@ The ATS also allows recruiters to see all the roles you have applied to at their
 
 ---
 
-And that is it from me in terms of resume preparation - hope this helps! If you have any other tips you would like to share with others on Tech Interview Handbook, do reach out to me at contact@techinterviewhandbook.org or create a new [GitHub discussion item](https://github.com/buffyhridoy/aipapersummary//discussions).
+And that is it from me in terms of resume preparation - hope this helps! If you have any other tips you would like to share with others on Tech Interview Handbook, do reach out to me at contact@techinterviewhandbook.org or create a new [GitHub discussion item](https://github.com/buffyhridoy/buffytheanalyst//discussions).
 
 <div className="text--center margin-vert--lg">
   <figure>

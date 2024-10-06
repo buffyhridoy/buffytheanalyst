@@ -34,7 +34,7 @@ export default function DocItemContent({ children }) {
       )}
       <div className="margin-bottom--lg">
         <iframe
-          src="https://ghbtns.com/github-btn.html?user=buffyhridoy&amp;repo=aipapersummary&amp;type=star&amp;count=true&amp;size=large"
+          src="https://ghbtns.com/github-btn.html?user=buffyhridoy&amp;repo=&amp;type=star&amp;count=true&amp;size=large"
           frameBorder={0}
           width={160}
           height={30}

@@ -161,7 +161,7 @@ function HeroSection() {
         </p>
         <div className="margin-top--lg">
           <iframe
-            src="https://ghbtns.com/github-btn.html?user=buffyhridoy&amp;repo=aipapersummary&amp;type=star&amp;count=true&amp;size=large"
+            src="https://ghbtns.com/github-btn.html?user=buffyhridoy&amp;repo=buffytheanalyst&amp;type=star&amp;count=true&amp;size=large"
             frameBorder={0}
             scrolling={0}
             width={160}
@@ -861,7 +861,7 @@ function SuccessStoriesSection() {
         <p className="margin-vert--lg text--center">
           Would you like to contribute a success story?{" "}
           <a
-            href="https://github.com/buffyhridoy/aipapersummary//edit/master/website/src/data/successStories.js"
+            href="https://github.com/buffyhridoy///edit/master/website/src/data/successStories.js"
             rel="noopener"
             target="_blank"
           >

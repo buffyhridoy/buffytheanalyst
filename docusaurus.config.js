@@ -63,7 +63,7 @@ module.exports = {
           position: "left",
         },
         {
-          href: "https://github.com/buffyhridoy/aipapersummary/",
+          href: "https://github.com/buffyhridoy//",
           position: "right",
           className: "navbar-icon",
           "aria-label": "GitHub repository",

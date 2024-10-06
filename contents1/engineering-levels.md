@@ -5,7 +5,7 @@ title: Engineering levels
 
 :::caution
 
-This section is still WIP. Feel free to contribute ideas at [our GitHub issue](https://github.com/buffyhridoy/aipapersummary//issues/222).
+This section is still WIP. Feel free to contribute ideas at [our GitHub issue](https://github.com/buffyhridoy/buffytheanalyst//issues/222).
 
 :::
 
