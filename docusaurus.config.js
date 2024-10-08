@@ -8,7 +8,7 @@ module.exports = {
   // organizationName: "",
   projectName: "buffytheanalyst",
 
-  
+
   
 
 
@@ -64,11 +64,6 @@ module.exports = {
           label: "Front End",
           href: "https://www.frontendinterviewhandbook.com",
           position: "left",
-        },
-        {
-          label: "Resume",
-          href: "/",
-        
         },
         {
           href: "https://github.com/buffyhridoy//",
