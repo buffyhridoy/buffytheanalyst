@@ -1,5 +1,5 @@
 module.exports = {
-  title: "AI Paper Insights",
+  title: "Buffy The Analyst",
   tagline: "Free curated interview preparation materials for busy people",
   url: "https://www.techinterviewhandbook.org",
   baseUrl: "/",
@@ -50,7 +50,8 @@ module.exports = {
         {
           label: "GAN",
           href: "/gan/",
-        },        
+        },
+       
         { label: "Blog", to: "blog", position: "left" },
         {
           label: "Grind 75",
@@ -61,6 +62,11 @@ module.exports = {
           label: "Front End",
           href: "https://www.frontendinterviewhandbook.com",
           position: "left",
+        },
+        {
+          label: "Resume",
+          href: "/",
+        
         },
         {
           href: "https://github.com/buffyhridoy//",
