@@ -7,6 +7,8 @@ module.exports = {
   favicon: "img/favicon.png",
   // organizationName: "",
   projectName: "buffytheanalyst",
+
+  
   
 
 
